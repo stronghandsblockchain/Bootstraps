@@ -35,7 +35,7 @@ Find the latest bootstraps and addnodes for SHND and SHMN
     First open your "Go To Folder" finder
     Then type this:  ~/Library/Application Support/StrongHands or ~/Library/Application Support/StrongHands
     Then press Enter.
-    This will take you directly into your StrongHands Folder.
+    This will take you directly into your StrongHandsMasternode Folder.
     
 
 ### IMPORTANT
