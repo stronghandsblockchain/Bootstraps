@@ -21,7 +21,7 @@ Find the latest bootstraps and addnodes for SHND and SHMN
  
  Botstraps are commonly used on QT Wallets to speed up the syncing specially when first time process.
  
-  * Locate your StrongHands Folder and delete everything that's in the folder except for these two files: wallet.dat and stronghands.conf
+  * Locate your StrongHands Folder and delete everything that's in the folder except for these two files: wallet.dat and shnd.conf
 
     If you don't know how to find your StrongHands or StrongHands Masternode Folder, then here's instructions below for both WINDOWS OS and MAC OS:
 
