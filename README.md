@@ -3,13 +3,13 @@
 
 Find the latest bootstraps and addnodes for SHND and SHMN
 
- <img align="left" width="18" height="18" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg"> *StrongHands (SHND)* | &nbsp; 
+ <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHND/icon/SHND%20icon_32x32.png"> *StrongHands (SHND)* | &nbsp; 
 ------------ | -------------
  StrongHands (SHND) Bootstrap for v7300 Qt Wallet | [download](https://bootstrap.stronghands.info/shboot_strap.zip)
  StrongHands (SHND) shnd.conf file with latest addnodes | [download]
  
  
-  <img align="left" width="18" height="18" src="https://raw.githubusercontent.com/stronghands-official/assets/main/shmn-logo-100x100.svg"> *StrongHands (SHMN)* | &nbsp; 
+  <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHMN/icon/SHMN%20icon_32x32.png"> *StrongHands (SHMN)* | &nbsp; 
 ------------ | -------------
  StrongHands Masternode (SHMN) Bootstrap for v2400 Qt Wallet | [download](https://bootstrap.stronghands.info/shmnboot_strap.zip)
  StrongHands Masternode (SHMN shmn.conf file with latest addnodes| [download](https://github.com/stronghandsblockchain/SHMN-NewSource/tree/master/contrib/debian/examples)
