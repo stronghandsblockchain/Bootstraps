@@ -6,7 +6,7 @@ Find the latest bootstraps and addnodes for SHND and SHMN
  <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHND/icon/SHND%20icon_32x32.png"> *StrongHands (SHND)* | &nbsp; 
 ------------ | -------------
  StrongHands (SHND) Bootstrap for v7300 Qt Wallet | [download](https://bootstrap.stronghands.info/shboot_strap.zip)
- StrongHands (SHND) shnd.conf file with latest addnodes | [download](https://www.coinexplorer.net/SHND) 
+ StrongHands (SHND) shnd.conf file with latest addnodes | [download](https://github.com/stronghandsblockchain/SHND-NewSource/blob/master/stronghands.conf)
  
   <img align="left" width="18" height="18" src="https://github.com/stronghandsblockchain/Logos/blob/main/SHMN/icon/SHMN%20icon_32x32.png"> *StrongHands (SHMN)* | &nbsp; 
 ------------ | -------------
